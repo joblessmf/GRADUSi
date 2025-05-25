@@ -2,7 +2,7 @@
 
 GRADUSi is a simple and elegant weather app for iOS. It allows users to search for the current weather in any city using data from the OpenWeatherMap API. The app is built with UIKit and follows the MVC (Model-View-Controller) design pattern.
 
-![GRADUSi Screenshot](Assets/screenshot.png)
+![White Minimalist LinkedIn Banner](https://github.com/user-attachments/assets/683db9f6-58a7-416b-afad-f941d6b5abdd)
 
 ---
 
