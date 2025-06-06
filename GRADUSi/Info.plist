@@ -2,12 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<<<<<<< HEAD
 	<key>NSLocationAlwaysUsageDescription</key>
 	<string>Приложението ще използва вашeто местоположение, за да покаже точното време.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Приложението се нуждае от вашето местоположение, за да покаже времето.</string>
- main
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
